@@ -18,6 +18,7 @@ public class ExceptionThrower {
                 throw new IOException("TESTIOEXCEPTION"); 
         }
         
+        //Test
         private void doXXX() { 
                 try { 
                         doYYY(); 
